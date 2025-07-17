@@ -39,10 +39,10 @@ Forest fire management
 Hotspot pattern analysis in ecological studies
 
 ## 📚 Reference Links:
-
 🔗 NASA FIRMS Documentation
 🔗 MODIS Active Fire Product Info (LP DAAC)
 🔗 Understanding MODIS Fire Algorithm
 
 ## 🔬 Important Parameters in MODIS Data:
+
 
