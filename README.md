@@ -44,5 +44,5 @@ Hotspot pattern analysis in ecological studies
 🔗 Understanding MODIS Fire Algorithm
 
 ## 🔬 Important Parameters in MODIS Data:
-
+![Image Alt]().
 
